@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="public/kine-hero.png" alt="Ilustración de personas haciendo ejercicio" width="220" />
-
 # 🌸 Kinesiología · Anais Droguett Canales
 
 **Página web para dar a conocer los servicios de kinesiología de Anais y facilitar que sus pacientes pidan hora.**
